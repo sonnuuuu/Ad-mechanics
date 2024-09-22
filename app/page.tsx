@@ -72,13 +72,13 @@ bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_b
   >
     <Element
       name="top"
-      className="overflow-hidden rounded-[6px] top-5 sticky md:mx-auto z-50 
+      className="overflow-hidden rounded-[5px] top-5 sticky md:mx-auto z-50 
  xl:w-4/5 2xl:w-[68%] bg-white flex items-center 
  justify-between py-6 px-4 md:px-8 mx-6"
     >
         <Link href={"/"}>
-          <h1 className="text-2xl font-extrabold  text-blue-700 whitespace-normal sm:text-xl sm:max-w-xs md:max-w-xs  space-x-4">
-            Ad-mechanics
+          <h1 className="text-2xl font-extrabold  text-blue-700 sm:text-xl sm:max-w-xs md:max-w-xs mr-2  space-x-4">
+            Ad-Mechanics
           </h1>
           {/* <Image
     src= {'/logo/logo.png'}
@@ -140,6 +140,8 @@ bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_b
             border-black
            text-white
          bg-[#121212]
+          whitespace-nowrap
+          overflow: visible;
           transition
            duration-200
           hover:shadow-[1px_1px_rgba(0,0,0),2px_2px_rgba(0,0,0),3px_3px_rgba(0,0,0),4px_4px_rgba(0,0,0),5px_5px_0px_0px_rgba(0,0,0)] dark:shadow-[1px_1px_rgba(255,255,255),2px_2px_rgba(255,255,255),3px_3px_rgba(255,255,255),4px_4px_rgba(255,255,255),5px_5px_0px_0px_rgba(255,255,255)] "
@@ -156,6 +158,10 @@ bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_b
           <h1>
             <CoverDemo />
           </h1>
+
+          
+          
+      
 
           {/* <p
             className="md:text-center
@@ -186,7 +192,8 @@ bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_b
               border-black 
               dark:border-white 
               bg-[#121212] 
-              text-white 
+              text-white
+              whitespace-nowrap 
                transition 
               duration-200 
                hover:shadow-[1px_1px_rgba(0,0,0),2px_2px_rgba(0,0,0),3px_3px_rgba(0,0,0),4px_4px_rgba(0,0,0),5px_5px_0px_0px_rgba(0,0,0)] dark:shadow-[1px_1px_rgba(255,255,255),2px_2px_rgba(255,255,255),3px_3px_rgba(255,255,255),4px_4px_rgba(255,255,255),5px_5px_0px_0px_rgba(255,255,255)] "
@@ -342,7 +349,7 @@ bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_b
                 src={"/icons/star.svg"}
                 width={10000}
                 height={10000}
-                className="w-6 mb-8"
+                className="w-6 mb-12"
                 alt="image"
               />
             </span>{" "}

@@ -7,25 +7,25 @@ const works = [
     background: "bg-gray-200",
     imageUrl: "/images/Panchayat.jpg",
     title: "Panchayaat",
-    link: "https://www.rubbishbrothers.com",
+    link: "https://tenor.com/en-GB/view/dekh-raha-hai-vinod-panchayat2-binod-vinod-gif-26220517",
   },
   {
     background: "bg-gray-200",
     imageUrl: "/images/mirzapur.jpeg",
     title: "Mirzapur",
-    link: "https://www.atlasmassage.ca",
+    link: "https://tenor.com/en-GB/view/tum-iske-liye-hmare-darwaze-pe-chale-aaye-mirzapur-pankaj-tripathi-mirzapur-bsdk-mirzapur-memes-gif-23739004",
   },
   {
     background: "bg-gray-200",
     imageUrl: "/images/scam1992.jpg",
     title: "Scam 1992",
-    link: "https://www.canadiansecuritysolutions.com",
+    link: "https://tenor.com/en-GB/view/harshad-mehta-scam1992-harshad-meheta-gif-18967716",
   },
   {
     background: "bg-gray-200",
     imageUrl: "/images/Stree2.webp",
     title: "Stree2",
-    link: "https://www.flight9.art",
+    link: "https://tenor.com/en-GB/view/shraddha-kapoor-stree-2-stree-shraddha-kapoor-stree-2-gif-12228039952467704496",
   },
 
 
