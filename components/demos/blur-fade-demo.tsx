@@ -23,7 +23,7 @@ const works = [
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/images/stree2.webp",
+    imageUrl: "/images/Stree2.webp",
     title: "Stree2",
     link: "https://www.flight9.art",
   },
